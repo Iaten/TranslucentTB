@@ -1,4 +1,6 @@
 #include "ccolourpicker.hpp"
+#include <windows.h>  
+#include <stdlib.h>
 
 #include "gui.hpp"
 
